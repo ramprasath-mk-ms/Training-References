@@ -17,9 +17,13 @@
 - Azure
 - Heroku
 
+## Hosting Guide Bolgs
+
+| SNO | Topic | Website |
+| :---: | :--- | :--- |
+| 1 | [Best Hosting Platform in 2025: My Hands On Guide to Choosing the Right One](https://levelup.gitconnected.com/best-hosting-platform-in-2025-my-hands-on-guide-to-choosing-the-right-one-15e43b8dfee4) | `medium` |
 
 ## Firebase Hosting
 
-> **NOTE: `Gmail` account is required**.
-
+- **NOTE: `Gmail` account is required**.
 - [Get started with Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart)
