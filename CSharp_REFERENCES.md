@@ -71,5 +71,6 @@
 | 63 | [CQRS with MediatR in ASP.NET Core: A Practical Guide to Decoupled Architecture](https://medium.com/@ulomaobilookenyi/cqrs-with-mediatr-in-asp-net-core-a-practical-guide-to-decoupled-architecture-7398f7eec846) | `medium` |
 | 64 | [EF Core Update-Database error "Operand type clash: date is incompatible with smallint"](https://stackoverflow.com/questions/44145356/ef-core-update-database-error-operand-type-clash-date-is-incompatible-with-sma?answertab=scoredesc#tab-top) | `stackoverflow` | 
 | 65 | [RabbitMQ Producer Properties -> Persistent](https://stackoverflow.com/questions/2344022/what-is-the-delivery-mode-in-amqp) | `stackoverflow` |
+| 66 | [Model Binding in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-10.0) | `microsoft` |
 
 ---
