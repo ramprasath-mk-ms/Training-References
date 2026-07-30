@@ -72,5 +72,6 @@
 | 64 | [EF Core Update-Database error "Operand type clash: date is incompatible with smallint"](https://stackoverflow.com/questions/44145356/ef-core-update-database-error-operand-type-clash-date-is-incompatible-with-sma?answertab=scoredesc#tab-top) | `stackoverflow` | 
 | 65 | [RabbitMQ Producer Properties -> Persistent](https://stackoverflow.com/questions/2344022/what-is-the-delivery-mode-in-amqp) | `stackoverflow` |
 | 66 | [Model Binding in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-10.0) | `microsoft` |
+| 67 | [Sections in Layout View in ASP.NET Core MVC](https://dotnettutorials.net/lesson/sections-in-layout-view-in-asp-net-core-mvc/#google_vignette) | `dotnettutorials` |
 
 ---
