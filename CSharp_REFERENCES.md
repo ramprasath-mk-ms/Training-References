@@ -75,5 +75,6 @@
 | 67 | [Sections in Layout View in ASP.NET Core MVC](https://dotnettutorials.net/lesson/sections-in-layout-view-in-asp-net-core-mvc/#google_vignette) | `dotnettutorials` |
 | 68 | [How to fix More than one scoped css files were found for the razor component](https://stackoverflow.com/questions/73164947/how-to-fix-more-than-one-scoped-css-files-were-found-for-the-razor-component) | `stackoverflow` |
 | 69 | [Integrating Keycloak with .NET Core Web API 6](https://medium.com/@omar.nebi147/integrating-keycloak-with-net-core-web-api-6-986fa0a81063) | `medium` |
+| 70 | [Integrate Keycloak with ASP.NET Core Using OAuth 2.0](https://milanjovanovic.tech/blog/integrate-keycloak-with-aspnetcore-using-oauth-2) | `milanjovanovic.tech` | 
 
 ---
