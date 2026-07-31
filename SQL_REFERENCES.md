@@ -53,5 +53,6 @@
 | 49 | [How to check if a column exists in a SQL Server table](https://stackoverflow.com/questions/133031/how-to-check-if-a-column-exists-in-a-sql-server-table) | `stackoverflow` |
 | 50 | [30 SQL Window Function Questions for Interviews- Day 47 of 100 Days of Data Engineering, AI and Azure Challenge](https://medium.com/@krthiak/30-sql-window-functionion-questions-for-interviews-day-47-of-100-days-of-data-engineering-ai-and-638bef1af0f6) | `medium` |
 | 51 | [12 SQL Window Functions Interview Questions](https://datalemur.com/blog/sql-window-functions-interview-questions) | `datalemur` |
+| 52 | [Sample Expense Tracker Database Design](https://github.com/RafaelKarcz/ExpenseTracker) | `github` |
 
 ---
