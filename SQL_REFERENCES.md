@@ -1,7 +1,7 @@
 ## SQL Server Concept Reference Website
 
-| SNO | Topic | Website |
-| :---: | :--- | :--- |
+| SNO | Topic | Website | Tages |
+| :---: | :--- | :--- | :--- |
 | 1 | [Understanding the “GO” Command in SQL Server](https://medium.com/@jasmineabtahi/understanding-the-go-command-in-sql-server-198d4f863cc1) | `medium` |
 | 2 | [SQL LIKE Pattern Matching: A Practical Guide With Examples](https://www.datacamp.com/tutorial/sql-like-pattern-matching-tutorial) | `datacamp` |
 | 3 | [SQL Contains String – SQL RegEx Example Query](https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/) | `freecodecamp` |
@@ -24,8 +24,8 @@
 | 20 | [SQL Server Views](https://www.sqlservertutorial.net/sql-server-views/) | `SQLSERVER TUTORIAL.net` |
 | 21 | [SQL Server IIF Function](https://www.sqlservertutorial.net/sql-server-system-functions/sql-server-iif-function/) | `SQLSERVER TUTORIAL.net` |
 | 22 | [SQL Server Cursor](https://medium.com/@dushyanthak/sql-server-cursor-768b1ff6bc65) | `medium` |
-| 23 | [WITH common_table_expression (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-ver17) | `microsoft` |
-| 24 | [Common Table Expressions (CTE) in SQL](https://medium.com/@roshmitadey/common-table-expressions-cte-in-sql-abdf550fc72f) | `medium` |
+| 23 | [WITH common_table_expression (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-ver17) | `microsoft` | **CTE** |
+| 24 | [Common Table Expressions (CTE) in SQL](https://medium.com/@roshmitadey/common-table-expressions-cte-in-sql-abdf550fc72f) | `medium` | **CTE** |
 | 25 | [SQL Server CTE](https://www.sqlservertutorial.net/sql-server-basics/sql-server-cte/) | `SQLSERVER TUTORIAL.net` |
 | 26 | [Pagination in SQL Server](https://www.sqlshack.com/pagination-in-sql-server/) | `sqlshack` |
 | 27 | [Storing passwords in a secure way in a SQL Server database](https://www.mssqltips.com/sqlservertip/4037/storing-passwords-in-a-secure-way-in-a-sql-server-database/) | `mssqltips.com` |
@@ -52,7 +52,8 @@
 | 48 | [How to Drop a Constraint](https://stackoverflow.com/questions/3496687/sql-server-error-is-not-a-constraint-could-not-drop-constraint-see-previo) | `stackoverflow` |
 | 49 | [How to check if a column exists in a SQL Server table](https://stackoverflow.com/questions/133031/how-to-check-if-a-column-exists-in-a-sql-server-table) | `stackoverflow` |
 | 50 | [30 SQL Window Function Questions for Interviews- Day 47 of 100 Days of Data Engineering, AI and Azure Challenge](https://medium.com/@krthiak/30-sql-window-functionion-questions-for-interviews-day-47-of-100-days-of-data-engineering-ai-and-638bef1af0f6) | `medium` |
-| 51 | [12 SQL Window Functions Interview Questions](https://datalemur.com/blog/sql-window-functions-interview-questions) | `datalemur` |
+| 51 | [12 SQL Window Functions Interview Questions](https://datalemur.com/blog/sql-window-functions-interview-questions) | `datalemur` | **Aggregate, Ranking, Value Functions** | 
 | 52 | [Sample Expense Tracker Database Design](https://github.com/RafaelKarcz/ExpenseTracker) | `github` |
+| 53 | [Ranking Functions (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/functions/ranking-functions-transact-sql?view=sql-server-ver17) | `microsoft` | **RK method**, **Runge-Kutta** |
 
 ---
