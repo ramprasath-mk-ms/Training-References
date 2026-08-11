@@ -1,7 +1,7 @@
 ## C# Topic Reference Links
 
-| SNO | Topic | Website |
-| :---: | :--- | :--- |
+| SNO | Topic | Website | Tags |
+| :---: | :--- | :--- | :---: |
 | 1 | [Default Access Modifiers in C# OOP](https://medium.com/@cemtuganli/default-access-modifiers-in-34571ff05193) | `medium` |
 | 2 | [C# Value Types vs. Reference Types: Knowing When to Use Each](https://medium.com/@jepozdemir/c-value-types-vs-reference-types-knowing-when-to-use-each-4652efd86b88) | `medium` |
 | 3 | [out, ref and in Keywords in C# .NET](https://medium.com/c-sharp-programming/out-ref-and-in-keywords-in-c-net-560dc30aad6a) | `medium` |
@@ -68,7 +68,7 @@
 | 60 | [How to Build an Event-Driven ASP.NET Core Microservice Architecture with RabbitMQ and Entity Framework](https://dev.to/christianzink/how-to-build-an-event-driven-asp-net-core-microservice-architecture-4fnh) | `dev` |
 | 61 | [.NET microservices architecture explained: A complete guide with examples](https://vfunction.com/blog/net-microservices-architecture/) | `vfunction` | 
 | 62 | [RabbitMQ Message Queue Using .NET Core 6 Web API](https://www.c-sharpcorner.com/article/rabbitmq-message-queue-using-net-core-6-web-api/) | `C# Corner` | 
-| 63 | [CQRS with MediatR in ASP.NET Core: A Practical Guide to Decoupled Architecture](https://medium.com/@ulomaobilookenyi/cqrs-with-mediatr-in-asp-net-core-a-practical-guide-to-decoupled-architecture-7398f7eec846) | `medium` |
+| 63 | [CQRS with MediatR in ASP.NET Core: A Practical Guide to Decoupled Architecture](https://medium.com/@ulomaobilookenyi/cqrs-with-mediatr-in-asp-net-core-a-practical-guide-to-decoupled-architecture-7398f7eec846) | `medium` | **CQRS, MediatR** |
 | 64 | [EF Core Update-Database error "Operand type clash: date is incompatible with smallint"](https://stackoverflow.com/questions/44145356/ef-core-update-database-error-operand-type-clash-date-is-incompatible-with-sma?answertab=scoredesc#tab-top) | `stackoverflow` | 
 | 65 | [RabbitMQ Producer Properties -> Persistent](https://stackoverflow.com/questions/2344022/what-is-the-delivery-mode-in-amqp) | `stackoverflow` |
 | 66 | [Model Binding in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-10.0) | `microsoft` |
