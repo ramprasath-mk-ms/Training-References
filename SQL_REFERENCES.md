@@ -1,6 +1,6 @@
 ## SQL Server Concept Reference Website
 
-| SNO | Topic | Website | Tages |
+| SNO | Topic | Website | Tags |
 | :---: | :--- | :--- | :--- |
 | 1 | [Understanding the “GO” Command in SQL Server](https://medium.com/@jasmineabtahi/understanding-the-go-command-in-sql-server-198d4f863cc1) | `medium` |
 | 2 | [SQL LIKE Pattern Matching: A Practical Guide With Examples](https://www.datacamp.com/tutorial/sql-like-pattern-matching-tutorial) | `datacamp` |
