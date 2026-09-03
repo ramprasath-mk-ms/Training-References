@@ -2,26 +2,27 @@
 
 ## Website References
 
-| SNO | Topic | Website |
-| :---: | :--- | :--- |
+| SNO | Topic | Website | Tags |
+| :-: | :---- | :------ | :--- |
+|  -  | -     | -       | -    |
 
 ---
 
 ## Postgres SQL Query References
 
-```sql
+```PostgreSQL
 -- list databases
 SELECT datname FROM pg_database;
 ```
 
-```sql
+```PostgreSQL
 -- list tables
 SELECT table_name 
 FROM information_schema.tables 
 WHERE table_schema = 'public';
 ```
 
-```sql
+```PostgreSQL
 -- list all columns 
 SELECT 
     column_name, 
@@ -36,7 +37,7 @@ ORDER BY
     ordinal_position;
 ```
 
-```sql
+```PostgreSQL
 -- create a user role with Admin priviliges (shorthand)
 CREATE ROLE AdminUser
 WITH LOGIN
@@ -44,7 +45,7 @@ SUPERUSER
 PASSWORD 'Admin@123';
 ```
 
-```sql
+```PostgreSQL
 -- check if an index exist, returns bool
 SELECT EXISTS (
     SELECT 1 
@@ -56,3 +57,14 @@ SELECT EXISTS (
 ) AS Index_Exists;
 ```
 
+```PostgreSQL
+-- temp variables usage
+-- NOTE: Always cast the custom values to avoid errors.
+
+SET custom.emp_id  = 1011;
+SET custom.role_id = 2;
+
+SELECT * FROM public.amazon_employees AS e
+WHERE e.role_id = current_setting('custom.role_id')::Integer
+    AND e.id = current_setting('custom.emp_id')::Integer;
+```
