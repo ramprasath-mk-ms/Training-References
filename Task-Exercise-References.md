@@ -15,17 +15,20 @@ Scaffold-DbContext "Server=MS-MDU-DESKTOP-;Initial Catalog=EmployeeManagementSys
 ```
 
 ```text
-// Connection String
+## Connection String
+
 Data Source=localhost;Initial Catalog=EmployeeManagementSystemDB;Integrated Security=True;Persist Security Info=True;User ID=AdminUser;Password=Admin@123;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;
 ```
 
 ```bash
 ## Scaffold Command
+
 Scaffold-DbContext "Data Source=localhost;Initial Catalog=UserDB;Integrated Security=True;Persist Security Info=True;User ID=AdminUser;Password=Admin@123;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkcore.SqlServer -ContextDir Data -OutputDir Models -f
 ```
 
 ```bash
 ## using dotnet
+
 dotnet ef dbcontext scaffold "Your_Connection_String" Microsoft.EntityFrameworkCore.SqlServer \
 --context ApplicationDbContext \
 --context-dir Data \
@@ -35,6 +38,7 @@ dotnet ef dbcontext scaffold "Your_Connection_String" Microsoft.EntityFrameworkC
 
 ```bash
 ## using Scaffold Command
+
 Scaffold-DbContext "conn-string" Microsoft.EntityFrameworkcore.SqlServer -Context AppDbContext -ContextDir Data -OutputDir Models -f
 ```
 
